@@ -1,6 +1,6 @@
 # Product Management System
 
-This project demonstrates a simple product management system for an e-commerce website. It includes a schema for products and categories.
+Welcome to the Product Management System project! This repository demonstrates a simple yet effective product management system for an e-commerce website. Explore the contents below to get started.
 
 ## Contents
 
@@ -10,22 +10,22 @@ This project demonstrates a simple product management system for an e-commerce w
 
 ## SQL Schema
 
-The SQL schema file demonstrates the schema creation for products and categories, enforcing referential integrity through foreign key constraints.
+The SQL schema file (`schema.sql`) showcases the schema creation for products and categories, implementing robust data management practices and enforcing referential integrity through foreign key constraints.
 
-- [schema.sql](schema.sql)
+[View SQL Schema](schema.sql)
 
 ## Diagram
 
-The diagram provided shows the relationship between the "Product" and "Product_Category" entities.
+Gain insight into the database structure with the provided diagram illustrating the relationship between the "Product" and "Product_Category" entities.
 
-![ecommerce table](https://raw.githubusercontent.com/iAmritMalviya/DB-Assignment/main/product-management-ecommerce-table-.webp)
+![E-commerce Table](https://raw.githubusercontent.com/iAmritMalviya/DB-Assignment/main/product-management-ecommerce-table-.webp)
 
 ## Answers
 
-Answers to the questions are available in the [Answers.md](Answers.md) file.
+Find detailed answers to pertinent questions in the [Answers.md](Answers.md) file. Additionally, refer to the SQL schema (`schema.sql`) for further insights into database design and management.
 
-- [Answers.md](Answers.md)
+[View Answers](Answers.md)
 
-Answers to the questions are available in the [schema.sql](schema.sql) file.
+[View SQL Schema](schema.sql)
 
-- [schema.sql](schema.sql)
+Let me know if you need further assistance or have any questions!
