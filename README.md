@@ -27,5 +27,3 @@ Find detailed answers to pertinent questions in the [Answers.md](Answers.md) fil
 [View Answers](Answers.md)
 
 [View SQL Schema](schema.sql)
-
-Let me know if you need further assistance or have any questions!
